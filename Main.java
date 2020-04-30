@@ -12,7 +12,7 @@ public class Main {
 	int c = in.nextInt();
 	in.close();
 	z=((a-3)*b/2)+c;
-        System.out.println("Your number =" + z);
+        System.out.println("Kiril gandon" + z);
 
     }
 }
